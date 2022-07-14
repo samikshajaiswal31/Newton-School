@@ -1,6 +1,5 @@
 Array insert at end
-Time Limit: 2 sec
-Memory Limit: 128000 kB
+
 Problem Statement
 Insertion is a basic but frequently used operation. Arrays in most languages cannnot be dynamically shrinked 
 or expanded. Here, we will work with such arrays and try to insert an element at the end of array.
